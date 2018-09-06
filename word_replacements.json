@@ -60,7 +60,12 @@
         "lepszych": "lućszych",
         "lepszym": "lućszym",
         "lepszymi": "lućszymi",
-        
+
+        "moich": "mych",
+        "moje": "me",
+        "mojego": "mego",
+        "mojej": "mej",
+
         "nie": "niet, nie",
         
         "niebezpieczeństw": "pieczeństw",
@@ -196,13 +201,23 @@
         "stworzyłyśmy": "sozdałyśmy",
         "stworzymy": "sozdamy",
         "stworzysz": "sozdasz",
-        
+
+        "swoich": "swych",
+        "swoje": "swe",
+        "swojego": "swego",
+        "swojej": "swej",
+
         "ta": "eta",
-        
+
         "tak": "ta, tak",
-        
+
         "to": "eto, to",
-        
+
+        "twoich": "twych",
+        "twoje": "twe",
+        "twojego": "twego",
+        "twojej": "twej",
+
         "tworzą": "sozdają",
         "tworzę": "sozdaję",
         "tworzy": "sozdaje",
