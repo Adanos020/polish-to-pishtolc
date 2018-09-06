@@ -201,6 +201,16 @@ dstring normalize(dstring halfPishtolc)
                                 break;
                         }
 
+                        case 'h':
+                        {
+                                result ~= "h"d;
+                                if (i < cast(int) halfPishtolc.length - 1 && halfPishtolc[i + 1] == 'h')
+                                {
+                                        ++i;
+                                }
+                                break;
+                        }
+
                         case 'r':
                         {
                                 if (halfPishtolc.isAdjacentToVowel(i))

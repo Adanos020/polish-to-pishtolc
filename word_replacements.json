@@ -29,6 +29,17 @@
         "dożarłyśmy się": "siedożrałyśmy",
         "dożarły się": "siedożrały",
 
+        "gorsza": "chuższaja",
+        "gorszą": "chuższą",
+        "gorsze": "chuższe",
+        "gorszej": "chużsiej",
+        "gorszego": "chużsiego",
+        "gorszemu": "chużsiemu",
+        "gorszy": "chuższy",
+        "gorszym": "chuższym",
+        "gorszymi": "chuższymi",
+        "gorzej": "chużsie",
+
         "język": "tolk,język",
         "języka": "tolka,języka",
         "językach": "tolkach,językach",
@@ -42,7 +53,7 @@
         "językowy": "tolkowy",
         "języków": "tolków,języków",
         "języku": "tolku,języku",
-        
+
         "kraj": "landia",
         "krajach": "landiach",
         "kraje": "landie",
@@ -51,7 +62,7 @@
         "krajowi": "landii",
         "krajów": "landii",
         "kraju": "landii",
-        
+
         "lepiej": "lućsie",
         "lepsi": "lućsi",
         "lepsza": "lućszaja",
