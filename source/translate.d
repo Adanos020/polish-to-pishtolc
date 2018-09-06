@@ -2,7 +2,8 @@ module translate;
 
 
 import pishtolc;
-import std.conv : to;
+import std.array : split;
+import std.conv  : to;
 import std.json;
 import std.stdio : File;
 
@@ -30,7 +31,15 @@ dstring toPishtolc(dstring polish)
 {
         if (polish.to!string in replacements)
         {
-                polish = replacements[polish.to!string].to!dstring[1 .. $ - 1]; // Removing quotation marks.
+                dstring[] words = replacements[polish.to!string]
+                                        .to!dstring[1 .. $ - 1] // Removing quotation marks.
+                                        .split(',');
+                dstring result;
+                foreach (i, word; words)
+                {
+                        result ~= word.translate ~ (i < cast(int) words.length - 1 ? ", "d : ""d);
+                }
+                return result;
         }
 
         return polish.translate;

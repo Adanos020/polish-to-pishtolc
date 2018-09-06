@@ -1,4 +1,8 @@
 {
+        "aby": "ay",
+        "by": "y",
+        "coby": "coy",
+
         "dożarli": "dożrali",
         "dożarliście": "dożraliście",
         "dożarliśmy": "dożraliśmy",
@@ -25,19 +29,19 @@
         "dożarłyśmy się": "siedożrałyśmy",
         "dożarły się": "siedożrały",
 
-        "język": "tolk, język",
-        "języka": "tolka, języka",
-        "językach": "tolkach, językach",
-        "językami": "tolkami, językami",
-        "języki": "tolki, języki",
-        "językiem": "tolkiem, językiem",
-        "językom": "tolkom, językom",
+        "język": "tolk,język",
+        "języka": "tolka,języka",
+        "językach": "tolkach,językach",
+        "językami": "tolkami,językami",
+        "języki": "tolki,języki",
+        "językiem": "tolkiem,językiem",
+        "językom": "tolkom,językom",
         "językowa": "tolkowa",
         "językowe": "tolkowe",
-        "językowi": "tolkowi, językowi",
+        "językowi": "tolkowi,językowi",
         "językowy": "tolkowy",
-        "języków": "tolków, języków",
-        "języku": "tolku, języku",
+        "języków": "tolków,języków",
+        "języku": "tolku,języku",
         
         "kraj": "landia",
         "krajach": "landiach",
@@ -66,7 +70,7 @@
         "mojego": "mego",
         "mojej": "mej",
 
-        "nie": "niet, nie",
+        "nie": "niet,nie",
         
         "niebezpieczeństw": "pieczeństw",
         "niebezpieczeństwa": "pieczeństwa",
@@ -124,6 +128,8 @@
         "nienawiścią": "beznawiścią",
         "nienawiść": "beznawiść",
 
+        "oby": "oy",
+
         "pożarli": "pożrali",
         "pożarliście": "pożraliście",
         "pożarliśmy": "pożraliśmy",
@@ -152,6 +158,32 @@
         "prały": "pierały",
         "prałyście": "pierałyście",
         "prałyśmy": "pierałyśmy",
+
+        "przeżarli": "przeżrali",
+        "przeżarliście": "przeżraliście",
+        "przeżarliśmy": "przeżraliśmy",
+        "przeżarł": "przeżrał",
+        "przeżarła": "przeżrała",
+        "przeżarłaś": "przeżrałaś",
+        "przeżarłem": "przeżrałem",
+        "przeżarłeś": "przeżrałeś",
+        "przeżarło": "przeżrało",
+        "przeżarły": "przeżrały",
+        "przeżarłyście": "przeżrałyście",
+        "przeżarłyśmy": "przeżrałyśmy",
+
+        "przeżarli się": "sieprzeżrali",
+        "przeżarliśmy się": "sieprzeżraliśmy",
+        "przeżarliście się": "sieprzeżraliście",
+        "przeżarł się": "sieprzeżrał",
+        "przeżarła się": "sieprzeżrała",
+        "przeżarłaś się": "sieprzeżrałaś",
+        "przeżarłem się": "sieprzeżrałem",
+        "przeżarłeś się": "sieprzeżrałeś",
+        "przeżarło się": "sieprzeżrało",
+        "przeżarłyście się": "sieprzeżrałyście",
+        "przeżarłyśmy się": "sieprzeżrałyśmy",
+        "przeżarły się": "sieprzeżrały",
         
         "psa": "piesa",
         "psach": "piesach",
@@ -209,9 +241,9 @@
 
         "ta": "eta",
 
-        "tak": "ta, tak",
+        "tak": "ta,tak",
 
-        "to": "eto, to",
+        "to": "eto,to",
 
         "twoich": "twych",
         "twoje": "twe",
@@ -342,15 +374,15 @@
         "zeżarłyśmy": "zeżrałyśmy",
         "zeżarłyście": "zeżrałyście",
         
-        "zła": "płochaja, złaja",
-        "złe": "płoche, złe",
-        "złej": "płochej, złej",
-        "złego": "płochego, złego",
-        "złemu": "płochemu, złemu",
-        "zły": "płochy, zły",
-        "złych": "płochych, złych",
-        "złym": "płochym, złym",
-        "złymi": "płochymi, złymi",
+        "zła": "płochaja,złaja",
+        "złe": "płoche,złe",
+        "złej": "płochej,złej",
+        "złego": "płochego,złego",
+        "złemu": "płochemu,złemu",
+        "zły": "płochy,zły",
+        "złych": "płochych,złych",
+        "złym": "płochym,złym",
+        "złymi": "płochymi,złymi",
 
         "znienawidzą": "ubeznawidzą",
         "znienawidzę": "ubeznawidzę",
@@ -370,7 +402,7 @@
         "znienawidzimy": "ubeznawidzimy",
         "znienawidzisz": "ubeznawidzisz",
 
-        "źli": "płosi, źli",
+        "źli": "płosi,źli",
         
         "żarli": "żrali",
         "żarliście": "żraliście",
@@ -384,5 +416,7 @@
         "żarło": "żrało",
         "żarły": "żrały",
         "żarłyście": "żrałyście",
-        "żarłyśmy": "żrałyśmy"
+        "żarłyśmy": "żrałyśmy",
+
+        "żeby": "żey"
 }

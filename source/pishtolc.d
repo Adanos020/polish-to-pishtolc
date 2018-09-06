@@ -219,6 +219,10 @@ dstring normalize(dstring halfPishtolc)
                                 if (    i == cast(int) halfPishtolc.length - 1
                                         || halfPishtolc.isAdjacentToVowel(i)
                                 ) {
+                                        if (i > 1 && halfPishtolc[i - 1].isConsonant)
+                                        {
+                                                result ~= "ė"d;
+                                        }
                                         result ~= "n"d;
                                 }
                                 else
@@ -315,6 +319,11 @@ dstring reduceConsonantClusters(dstring almostPishtolc)
                                                 ~ almostPishtolc[i + 1 .. i + 3];
                                         i += 2;
                                 }
+                        }
+                        else if (almostPishtolc[i + 1] == 'n' && !almostPishtolc.isAdjacentToVowel(i + 1))
+                        {
+                                result ~= almostPishtolc[i] ~ "ėn"d;
+                                ++i;
                         }
                         else
                         {
