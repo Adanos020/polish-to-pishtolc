@@ -1,0 +1,9 @@
+{
+	"name": "polish-to-pishtolc",
+	"authors": [
+		"adanos"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, adanos",
+	"license": "proprietary"
+}

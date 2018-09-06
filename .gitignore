@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+polish-to-pishtolc
+polish-to-pishtolc.so
+polish-to-pishtolc.dylib
+polish-to-pishtolc.dll
+polish-to-pishtolc.a
+polish-to-pishtolc.lib
+polish-to-pishtolc-test-*
+*.exe
+*.o
+*.obj
+*.lst
