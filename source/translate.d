@@ -44,7 +44,8 @@ dstring toPishtolc(dstring polish)
                                 prefix = "sie"d;
                                 word = word[0 .. $ - 4];
                         }
-                        result ~= (prefix ~ word).translate ~ (i < cast(int) words.length - 1 ? ", "d : ""d);
+                        result ~= (prefix ~ word).translate
+                                ~ (i < cast(int) words.length - 1 ? ", "d : ""d);
                 }
                 return result;
         }

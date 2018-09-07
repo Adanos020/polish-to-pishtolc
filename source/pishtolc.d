@@ -184,15 +184,7 @@ dstring normalize(dstring halfPishtolc)
                                 }
                                 else if (halfPishtolc.isSurroundedByVowels(i))
                                 {
-                                        if (i < cast(int) halfPishtolc.length - 1 && halfPishtolc[i + 1] == 'y')
-                                        {
-                                                result ~= "ṅy"d;
-                                                ++i;
-                                        }
-                                        else
-                                        {
-                                                result ~= "j"d;
-                                        }
+                                        result ~= "j"d;
                                 }
                                 else
                                 {
@@ -229,8 +221,9 @@ dstring normalize(dstring halfPishtolc)
                                 if (    i == cast(int) halfPishtolc.length - 1
                                         || halfPishtolc.isAdjacentToVowel(i)
                                 ) {
-                                        if (i > 1 && halfPishtolc[i - 1].isConsonant)
-                                        {
+                                        if (    i == cast(int) halfPishtolc.length - 1 && i > 1
+                                                && halfPishtolc[i - 1].isConsonant
+                                        ) {
                                                 result ~= "ė"d;
                                         }
                                         result ~= "n"d;
