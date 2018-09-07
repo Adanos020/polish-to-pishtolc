@@ -1,7 +1,40 @@
 {
         "aby": "ay",
+        "abym": "aym",
+        "abyś": "ayś",
+        "abyście": "ayście",
+        "abyśmy": "ayśmy",
+
+        "beze": "bez",
+
         "by": "y",
+        "bym": "ym",
+        "byś": "yś",
+        "byście": "yście",
+        "byśmy": "yśmy",
+
         "coby": "coy",
+
+        "dlaczego": "czegdla",
+        "dlatego": "tegdla",
+
+        "dowie": "dozna",
+        "dowiecie": "doznacie",
+        "dowiedzą": "doznają",
+        "dowiedział": "doznał",
+        "dowiedziała": "doznała",
+        "dowiedziałam": "doznałam",
+        "dowiedziałaś": "doznałaś",
+        "dowiedziałem": "doznałem",
+        "dowiedziałeś": "doznałeś",
+        "dowiedziały": "doznały",
+        "dowiedzieli": "doznali",
+        "dowiedzieliście": "doznaliście",
+        "dowiedzieliśmy": "doznaliśmy",
+        "dowiedzieć": "doznać",
+        "dowiem": "doznam",
+        "dowiemy": "doznamy",
+        "dowiesz": "doznasz",
 
         "dożarli": "dożrali",
         "dożarliście": "dożraliście",
@@ -16,19 +49,6 @@
         "dożarłyście": "dożrałyście",
         "dożarłyśmy": "dożrałyśmy",
 
-        "dożarli się": "siedożrali",
-        "dożarliśmy się": "siedożraliśmy",
-        "dożarliście się": "siedożraliście",
-        "dożarł się": "siedożrał",
-        "dożarła się": "siedożrała",
-        "dożarłaś się": "siedożrałaś",
-        "dożarłem się": "siedożrałem",
-        "dożarłeś się": "siedożrałeś",
-        "dożarło się": "siedożrało",
-        "dożarłyście się": "siedożrałyście",
-        "dożarłyśmy się": "siedożrałyśmy",
-        "dożarły się": "siedożrały",
-
         "gorsza": "chuższaja",
         "gorszą": "chuższą",
         "gorsze": "chuższe",
@@ -36,6 +56,7 @@
         "gorszego": "chużsiego",
         "gorszemu": "chużsiemu",
         "gorszy": "chuższy",
+        "gorszych": "chuższych",
         "gorszym": "chuższym",
         "gorszymi": "chuższymi",
         "gorzej": "chużsie",
@@ -81,8 +102,10 @@
         "mojego": "mego",
         "mojej": "mej",
 
+        "nade": "nad",
+
         "nie": "niet,nie",
-        
+
         "niebezpieczeństw": "pieczeństw",
         "niebezpieczeństwa": "pieczeństwa",
         "niebezpieczeństwach": "pieczeństwach",
@@ -92,7 +115,7 @@
         "niebezpieczeństwo": "pieczeństwo",
         "niebezpieczeństwom": "pieczeństwom",
         "niebezpieczeństwu": "pieczeństwu",
-        
+
         "niebezpieczna": "pieczna",
         "niebezpieczne": "pieczne",
         "niebezpiecznego": "piecznego",
@@ -134,12 +157,36 @@
         "nienawistnych": "beznawistnych",
         "nienawistnym": "beznawistnym",
         "nienawistnymi": "beznawistnymi",
-        
+
         "nienawiści": "beznawiści",
         "nienawiścią": "beznawiścią",
         "nienawiść": "beznawiść",
 
         "oby": "oy",
+
+        "ode": "od",
+
+        "odepchnąć": "odpchnąć",
+        "odepchnął": "odpchnął",
+        "odepchnąłem": "odpchnąłem",
+        "odepchnąłeś": "odpchnąłeś",
+        "odepchnęli": "odpchnęli",
+        "odepchnęliście": "odpchnęliście",
+        "odepchnęliśmy": "odpchnęliśmy",
+        "odepchnęła": "odpchnęła",
+        "odepchnęło": "odpchnęło",
+
+        "oderwać": "odrwać",
+        "oderwał": "odrwał",
+        "oderwałem": "odrwałem",
+        "oderwałeś": "odrwałeś",
+        "oderwali": "odrwali",
+        "oderwaliście": "odrwaliście",
+        "oderwaliśmy": "odrwaliśmy",
+        "oderwała": "odrwała",
+        "oderwało": "odrwało",
+
+        "pode": "pod",
 
         "pożarli": "pożrali",
         "pożarliście": "pożraliście",
@@ -154,7 +201,7 @@
         "pożarły": "pożrały",
         "pożarłyście": "pożrałyście",
         "pożarłyśmy": "pożrałyśmy",
-        
+
         "prać": "pierać",
         "prali": "pierali",
         "praliście": "pieraliście",
@@ -170,6 +217,8 @@
         "prałyście": "pierałyście",
         "prałyśmy": "pierałyśmy",
 
+        "przede": "przed",
+
         "przeżarli": "przeżrali",
         "przeżarliście": "przeżraliście",
         "przeżarliśmy": "przeżraliśmy",
@@ -183,19 +232,6 @@
         "przeżarłyście": "przeżrałyście",
         "przeżarłyśmy": "przeżrałyśmy",
 
-        "przeżarli się": "sieprzeżrali",
-        "przeżarliśmy się": "sieprzeżraliśmy",
-        "przeżarliście się": "sieprzeżraliście",
-        "przeżarł się": "sieprzeżrał",
-        "przeżarła się": "sieprzeżrała",
-        "przeżarłaś się": "sieprzeżrałaś",
-        "przeżarłem się": "sieprzeżrałem",
-        "przeżarłeś się": "sieprzeżrałeś",
-        "przeżarło się": "sieprzeżrało",
-        "przeżarłyście się": "sieprzeżrałyście",
-        "przeżarłyśmy się": "sieprzeżrałyśmy",
-        "przeżarły się": "sieprzeżrały",
-        
         "psa": "piesa",
         "psach": "piesach",
         "psami": "piesami",
@@ -319,10 +355,30 @@
         "ulepszycie": "ulućszycie",
         "ulepszymy": "ulućszymy",
 
+        "we": "w",
+
+        "wie": "zna",
+        "wiecie": "znacie",
+        "wiedzą": "znają",
+        "wiedział": "znał",
+        "wiedziała": "znała",
+        "wiedziałam": "znałam",
+        "wiedziałaś": "znałaś",
+        "wiedziałem": "znałem",
+        "wiedziałeś": "znałeś",
+        "wiedziały": "znały",
+        "wiedzieli": "znali",
+        "wiedzieliście": "znaliście",
+        "wiedzieliśmy": "znaliśmy",
+        "wiedzieć": "znać",
+        "wiem": "znam",
+        "wiemy": "znamy",
+        "wiesz": "znasz",
+
         "więc": "tak",
 
         "więcej": "bolsie",
-        
+
         "więksi": "bolsi",
         "większa": "bolszaja",
         "większą": "bolszą",
@@ -334,6 +390,12 @@
         "większych": "bolszych",
         "większym": "bolszym",
         "większymi": "bolszymi",
+
+        "wszyscy": "wsje",
+        "wszystkich": "wsjech",
+        "wszystkie": "wsje",
+        "wszystkim": "wsjem",
+        "wszystkimi": "wsjema",
 
         "wypierz": "wyspierz",
         "wypierze": "wyspierze",
@@ -356,7 +418,7 @@
         "wyprały": "wyspierały",
         "wyprałyście": "wyspierałyście",
         "wyprałyśmy": "wyspierałyśmy",
-        
+
         "wyżarli": "wyżrali",
         "wyżarliście": "wyżraliście",
         "wyżarliśmy": "wyżraliśmy",
@@ -370,7 +432,9 @@
         "wyżarły": "wyżrały",
         "wyżarłyście": "wyżrałyście",
         "wyżarłyśmy": "wyżrałyśmy",
-        
+
+        "ze": "z",
+
         "zeżarli": "zeżrali",
         "zeżarliście": "zeżraliście",
         "zeżarliśmy": "zeżraliśmy",
@@ -384,7 +448,7 @@
         "zeżarły": "zeżrały",
         "zeżarłyśmy": "zeżrałyśmy",
         "zeżarłyście": "zeżrałyście",
-        
+
         "zła": "płochaja,złaja",
         "złe": "płoche,złe",
         "złej": "płochej,złej",
@@ -414,7 +478,7 @@
         "znienawidzisz": "ubeznawidzisz",
 
         "źli": "płosi,źli",
-        
+
         "żarli": "żrali",
         "żarliście": "żraliście",
         "żarliśmy": "żraliśmy",

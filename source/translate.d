@@ -5,7 +5,8 @@ import pishtolc;
 import std.array : split;
 import std.conv  : to;
 import std.json;
-import std.stdio : File;
+import std.stdio  : File;
+import std.string : endsWith;
 
 
 private JSONValue replacements;
@@ -37,9 +38,20 @@ dstring toPishtolc(dstring polish)
                 dstring result;
                 foreach (i, word; words)
                 {
-                        result ~= word.translate ~ (i < cast(int) words.length - 1 ? ", "d : ""d);
+                        dstring prefix;
+                        if (word.endsWith(" się"d))
+                        {
+                                prefix = "sie"d;
+                                word = word[0 .. $ - 4];
+                        }
+                        result ~= (prefix ~ word).translate ~ (i < cast(int) words.length - 1 ? ", "d : ""d);
                 }
                 return result;
+        }
+
+        if (polish.endsWith(" się"d))
+        {
+                polish = "sie"d ~ polish[0 .. $ - 4];
         }
 
         return polish.translate;
